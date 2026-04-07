@@ -49,13 +49,13 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ## 📷 Dashboard
 
-<img width="1794" height="814" alt="dashboard" src="https://github.com/user-attachments/assets/abf66056-47b5-4d23-97e6-da8d051f89a9" />
+<img width="1436" height="803" alt="dashboard2" src="https://github.com/user-attachments/assets/0c37b0a8-7f50-468d-93cb-20a959e58054" />
 
 ---
 
 ## 👨‍💻 Autor
 
-**Dylan Herrera Sulca**  
+**Dylan Ian Herrera Sulca**  
 Estudiante de Ingeniería de Sistemas de Información – UPC
 
 
