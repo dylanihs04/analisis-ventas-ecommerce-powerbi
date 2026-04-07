@@ -20,7 +20,6 @@ El análisis se realizó utilizando el dataset **Brazilian E-Commerce Public Dat
 El dashboard incluye las siguientes métricas:
 
 - **Total Revenue** → ingresos totales  
-- **Total Orders** → número total de pedidos  
 - **Total Customers** → número total de clientes  
 - **Total Products Sold** → productos vendidos  
 - **Average Order Value** → valor promedio por pedido  
